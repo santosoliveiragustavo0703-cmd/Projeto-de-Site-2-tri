@@ -8,3 +8,5 @@ function botaoClicado () (
     console.log("fui clicado");
     let texto = botaoquerySelector("span");
     texto.textContent++;
+
+    
