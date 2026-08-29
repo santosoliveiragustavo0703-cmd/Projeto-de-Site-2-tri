@@ -9,4 +9,6 @@ function botaoClicado () (
     let texto = botaoquerySelector("span");
     texto.textContent++;
 
-    
+    }
+});
+
